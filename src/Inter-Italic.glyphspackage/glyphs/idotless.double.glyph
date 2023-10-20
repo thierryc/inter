@@ -1,7 +1,7 @@
 {
 glyphname = idotless.double;
-kernLeft = idotless;
-kernRight = idotless;
+kernLeft = i;
+kernRight = i;
 layers = (
 {
 anchors = (
@@ -124,6 +124,7 @@ ref = idotless;
 width = 630;
 }
 );
+unicode = 60948;
 userData = {
 "interface.width-adjustments" = (
 -16

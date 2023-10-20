@@ -1,4 +1,5 @@
 {
+color = 9;
 glyphname = quotereversed.ss03;
 layers = (
 {
@@ -214,6 +215,7 @@ width = 375;
 );
 metricLeft = "=|quoteleft";
 metricRight = "=|quoteleft";
+unicode = 61071;
 userData = {
 interface.gridadjust.original = "{'width': 578, 'leftMargin': 106, 'rightMargin': 66}";
 "interface.width-adjustments" = (

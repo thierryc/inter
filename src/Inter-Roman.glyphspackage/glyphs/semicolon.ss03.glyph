@@ -1,4 +1,5 @@
 {
+color = 9;
 glyphname = semicolon.ss03;
 kernLeft = colon;
 kernRight = colon;
@@ -21,7 +22,7 @@ pos = (28,809);
 ref = period;
 }
 );
-width = 589;
+width = 590;
 },
 {
 layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
@@ -98,6 +99,7 @@ width = 400;
 );
 metricLeft = comma.ss03;
 metricWidth = period;
+unicode = 61065;
 userData = {
 "interface.width-adjustments" = (
 -16

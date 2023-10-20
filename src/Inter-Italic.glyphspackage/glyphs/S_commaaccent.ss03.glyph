@@ -1,4 +1,5 @@
 {
+color = 9;
 glyphname = Scommaaccent.ss03;
 kernLeft = S;
 kernRight = S;
@@ -88,4 +89,5 @@ ref = commaaccent.ss03;
 width = 1127;
 }
 );
+unicode = 61051;
 }

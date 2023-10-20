@@ -1,7 +1,8 @@
 {
+color = 9;
 glyphname = quoteleft.ss03;
-kernLeft = quotedbl;
-kernRight = quotedbl;
+kernLeft = quotedblleft;
+kernRight = quotedblleft;
 layers = (
 {
 layerId = "11F4534A-B963-4AB5-820F-DAF9A20CD933";
@@ -78,6 +79,7 @@ width = 412;
 );
 metricLeft = "=|quoteright.ss03";
 metricRight = "=|quoteleft.ss03";
+unicode = 61069;
 userData = {
 "interface.width-adjustments" = (
 -16

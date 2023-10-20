@@ -10,11 +10,11 @@ shapes = (
 ref = eta;
 },
 {
-pos = (20,0);
+pos = (16,0);
 ref = uni1FBE;
 },
 {
-pos = (291,0);
+pos = (415,0);
 ref = varia;
 }
 );
@@ -27,11 +27,11 @@ shapes = (
 ref = eta;
 },
 {
-pos = (35,0);
+pos = (-1,0);
 ref = uni1FBE;
 },
 {
-pos = (216,0);
+pos = (374,0);
 ref = varia;
 }
 );
@@ -44,11 +44,11 @@ shapes = (
 ref = eta;
 },
 {
-pos = (12,0);
+pos = (13,0);
 ref = uni1FBE;
 },
 {
-pos = (416,0);
+pos = (495,0);
 ref = varia;
 }
 );
@@ -61,11 +61,11 @@ shapes = (
 ref = eta;
 },
 {
-pos = (16,0);
+pos = (3,0);
 ref = uni1FBE;
 },
 {
-pos = (282,0);
+pos = (385,0);
 ref = varia;
 }
 );
@@ -78,11 +78,11 @@ shapes = (
 ref = eta;
 },
 {
-pos = (34,0);
+pos = (-2,0);
 ref = uni1FBE;
 },
 {
-pos = (215,0);
+pos = (340,0);
 ref = varia;
 }
 );
@@ -95,11 +95,11 @@ shapes = (
 ref = eta;
 },
 {
-pos = (12,0);
+pos = (13,0);
 ref = uni1FBE;
 },
 {
-pos = (417,0);
+pos = (433,0);
 ref = varia;
 }
 );

@@ -15,20 +15,20 @@ alignment = 1;
 ref = varia;
 }
 );
-width = 553;
+width = 307;
 },
 {
 anchors = (
 {
 name = _tonos;
-pos = (524,1490);
+pos = (684,1490);
 }
 );
 layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
 shapes = (
 {
 alignment = -1;
-pos = (14,14);
+pos = (14,-18);
 ref = varia;
 }
 );
@@ -38,7 +38,7 @@ width = 652;
 anchors = (
 {
 name = _tonos;
-pos = (524,1490);
+pos = (364,1490);
 }
 );
 layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
@@ -65,13 +65,13 @@ alignment = 1;
 ref = varia;
 }
 );
-width = 482;
+width = 289;
 },
 {
 anchors = (
 {
 name = _tonos;
-pos = (508,1490);
+pos = (612,1490);
 }
 );
 layerId = m009;
@@ -102,6 +102,7 @@ ref = varia;
 width = 356;
 }
 );
+unicode = 61081;
 userData = {
 interface.gridadjust.original = "{'width': 707, 'leftMargin': 142, 'rightMargin': 121}";
 "interface.width-adjustments" = (

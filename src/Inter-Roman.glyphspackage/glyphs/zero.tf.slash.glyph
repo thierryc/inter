@@ -1,5 +1,5 @@
 {
-color = 7;
+color = 9;
 glyphname = zero.tf.slash;
 layers = (
 {
@@ -11,7 +11,7 @@ ref = zero.tf;
 },
 {
 alignment = -1;
-pos = (20,0);
+pos = (23,0);
 ref = _part.zeroslash;
 }
 );

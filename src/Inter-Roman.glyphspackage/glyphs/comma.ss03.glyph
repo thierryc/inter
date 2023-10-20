@@ -1,4 +1,5 @@
 {
+color = 9;
 glyphname = comma.ss03;
 kernLeft = comma;
 kernRight = comma;
@@ -110,7 +111,7 @@ pos = (-2,-1256);
 ref = quoteright.ss03;
 }
 );
-width = 589;
+width = 590;
 },
 {
 associatedMasterId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
@@ -239,6 +240,7 @@ width = 446;
 }
 );
 metricWidth = period;
+unicode = 61064;
 userData = {
 "interface.width-adjustments" = (
 -16
